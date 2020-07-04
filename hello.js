@@ -15,3 +15,9 @@ function mul(a,b) {
     console.log("mul result : " + ret);
     return ret
 }
+
+function div(a,b) {
+    var ret = a/b;
+    console.log("mul result : " + ret);
+    return ret
+}
